@@ -51,7 +51,7 @@ This is a web based application developed for education related based website in
 ![Screenshot (17)](https://user-images.githubusercontent.com/102029214/207813188-32d25b62-ce30-4dca-9fc8-d9eb33fe31a6.png)
 
 
-### educationbot
+### Educationbot
 
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/102029214/207813491-fba0ae30-9e7c-4876-ac1b-b8a1f3a57626.png)
